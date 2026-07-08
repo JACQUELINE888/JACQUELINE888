@@ -18,9 +18,17 @@
 </p>
 
 
+## GitHub Overview
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JACQUELINE888&theme=default&hide_border=true" />
+</p>
+
 <!--
 **JACQUELINE888/JACQUELINE888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Building+clean+and+useful+AI-powered+tools;Interested+in+Data%2C+Algorithms%2C+and+Human-Centred+AI;Learning+by+building%2C+debugging%2C+and+creating" alt="Typing SVG" />
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
