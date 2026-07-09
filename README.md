@@ -18,11 +18,7 @@
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,r,postgres,mysql,docker,git,github,jenkins,figma,jupyter&theme=light" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Focus-Algorithms-blue?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,r,js,postgres,mysql,docker,git,jenkins,figma,blender&theme=light" />
 </p>
 
 
