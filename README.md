@@ -6,6 +6,14 @@
 
 - 🎓 Studying Computer Science and Computational Data Science
 - 📊 Enjoy working with real-world data, visual analytics, and algorithmic problem solving
+- 🤩 Interested in Machine Learning, HCI, NLP, Multimodal AI, and Computer Vision
+
+### Research Focus
+
+- 🤖 **Robust Machine Learning:** Developing models that generalize well under noisy, real-world conditions.
+
+- 🧠 **Brain-Computer Interfaces (BCI):** Focusing on EEG data analysis, signal processing, and computational brain-signal modelling.
+
 
 ### Tech Stack
 
@@ -16,6 +24,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Algorithms-blue?style=flat-square" />
 </p>
+
 
 
 ## GitHub Overview
